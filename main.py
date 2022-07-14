@@ -1,7 +1,7 @@
 import time
 from dotenv import load_dotenv, find_dotenv
 import os
-
+print("hello")
 
 load_dotenv(find_dotenv())
 checking = float(os.environ.get("checking"))
