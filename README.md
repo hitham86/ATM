@@ -12,7 +12,7 @@ Deposit Funds: Users can deposit money into their checking or savings accounts.
 
 Check Balance: Displays the current balance for both checking and savings accounts.
 
-Transfer Funds: Transfers money between checking and savings accounts.
+Transfer Funds: Transfers money between checking and savings accounts. 
 
 Error Handling: Handles invalid inputs and insufficient funds conditions.
 
